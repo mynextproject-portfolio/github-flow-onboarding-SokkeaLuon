@@ -1,6 +1,6 @@
-Hello, Developer!
+Hello, I'm Sokkea!
 
-Welcome to your first GitHub workflow project.
+Welcome to my first GitHub workflow project.
 
-This is a simple greeting file that you'll personalize
-as you practice the professional development workflow.
+This is a simple greeting file that I'll personalize
+as my practice the professional development workflow.
